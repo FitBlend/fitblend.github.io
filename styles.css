@@ -107,3 +107,13 @@ nav{
 hr{
     margin-top: 2.5rem;
 }
+
+.i-hook {
+    text-align: center;
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #aeaeae;
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
