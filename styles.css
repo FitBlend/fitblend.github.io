@@ -130,3 +130,21 @@ hr{
     margin-left: auto;
     margin-right: auto;
 }
+
+@media (min-width:600px){ 
+    .row-cols-md-4>* {
+        width: 50%;
+    }
+}
+
+@media (min-width:768px){ 
+    .row-cols-md-4>* {
+        width: 33%;
+    }
+}
+
+@media (min-width:1000px){ 
+    .row-cols-md-4>* {
+        width: 25%;
+    }
+}
