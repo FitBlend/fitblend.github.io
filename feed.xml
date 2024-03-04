@@ -3,32 +3,57 @@
     <title>LifeVox</title>
     <link href="https://lifevox.github.io/feed.xml" rel="self" />
     <link href="https://lifevox.github.io" />
-    <updated>2024-03-04T15:02:59+05:30</updated>
+    <updated>2024-03-04T17:47:30+05:30</updated>
     <author>
         <name>Shiva</name>
     </author>
     <id>https://lifevox.github.io</id>
 
     <entry>
-        <title>What is Teaburn?</title>
+        <title>Puravive</title>
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/home.html"/>
-        <id>https://lifevox.github.io/home.html</id>
-        <media:content url="https://lifevox.github.io/media/posts/2/special-teaburn.png" medium="image" />
+        <link href="https://lifevox.github.io/puravive/"/>
+        <id>https://lifevox.github.io/puravive/</id>
+        <media:content url="https://lifevox.github.io/media/posts/9/special-teaburn.png" medium="image" />
+            <category term="Health"/>
 
-        <updated>2024-03-04T15:02:59+05:30</updated>
+        <updated>2024-03-04T17:47:30+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lifevox.github.io/media/posts/2/special-teaburn.png" alt="" />
-                    The world’s first and only natural proprietary, patent-pending formula, that when combined with tea, can increase both the speed and efficiency of metabolism. While instantly boosting your health, energy and well-being at the same time. There’s never been anything even close to Tea Burn ever attempted.
+                        <img src="https://lifevox.github.io/media/posts/9/special-teaburn.png" alt="" />
+                    About Liv Pure Liv Pure is a dietary supplement that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://lifevox.github.io/media/posts/2/special-teaburn.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--right"><img loading="lazy"  src="https://lifevox.github.io/media/posts/2/special-teaburn-2.png" alt="" width="1538" height="1042" sizes="100vw" srcset="https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-xs.png 300w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-sm.png 480w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-md.png 768w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-lg.png 1024w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-xl.png 1360w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-2xl.png 1600w"></figure>
+                    <p><img src="https://lifevox.github.io/media/posts/9/special-teaburn.png" class="type:primaryImage" alt="" /></p>
+                <h2>About Liv Pure</h2>
+<p>Liv Pure is a dietary supplement that contains both liver purifying and live fat-burning complex made of selected natural ingredients. These ingredients are expected to rapidly detoxify your body as well as optimize liver function while giving you a toned body.</p>
+<p>According to the team behind the development of the supplement, the formula contains no stimulants, artificial additives, or any other sort of chemicals. It is manufactured in a GMP-certified facility approved by the FDA.</p>
+<p>Every batch of Liv Pure weight loss supplement is tested for safety and purity. Therefore, it seems like the supplement is safe for regular consumption. Moreover, it comes in the form of easy-to-swallow capsules which also make the consumption convenient. Furthermore, the Liv Pure liver purification supplement is ideal for both men and women. So, you need not worry about that. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Shiva</name>
+        </author>
+        <link href="https://lifevox.github.io/home/"/>
+        <id>https://lifevox.github.io/home/</id>
+            <category term="Health"/>
+
+        <updated>2024-03-04T17:40:57+05:30</updated>
+            <summary>
+                <![CDATA[
+                    The world’s first and only natural proprietary, patent-pending formula, that when&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--right"><img loading="lazy"  src="https://lifevox.github.io/media/posts/2/special-teaburn-2.png" alt="" width="1538" height="1042" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-xs.png 300w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-sm.png 480w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-md.png 768w"></figure>
 <p data-v-96c0ee90=""> </p>
 <p data-v-96c0ee90="">The world’s first and only natural proprietary, patent-pending formula, that when combined with tea, can increase both the speed and efficiency of metabolism.</p>
 <p data-v-96c0ee90="">While instantly boosting your health, energy and well-being at the same time.</p>
