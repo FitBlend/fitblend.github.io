@@ -93,20 +93,6 @@
             "date_modified": "2024-03-04T19:26:51+05:30"
         },
         {
-            "id": "https://lifevox.github.io/about-us/",
-            "url": "https://lifevox.github.io/about-us/",
-            "title": "About Us",
-            "summary": "Firstly, welcome to the About us page on the LifeVox website.",
-            "content_html": "<p>Firstly, welcome to the About us page on the <strong>LifeVox </strong>website.</p>\n<p>On this page we will give you a quick breakdown on what this site is all about and the purpose for creating this site.</p>\n<p>So, on this site we review products that are getting a lot of attention throughout the internet, both on social media and Google.</p>\n<p>we get the product and test it out, we also gather real true testimonials from other users.</p>\n<p>Then we interview them or take our own thoughts and results to write a comprehensive review on the product giving you all the details, the good points, bad points and our thoughts on whether its worth buying or not.</p>",
-            "author": {
-                "name": "Shiva"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-04T15:46:20+05:30",
-            "date_modified": "2024-03-04T19:26:58+05:30"
-        },
-        {
             "id": "https://lifevox.github.io/home/",
             "url": "https://lifevox.github.io/home/",
             "title": "Home",
