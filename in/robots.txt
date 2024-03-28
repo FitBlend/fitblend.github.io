@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://lifevox.github.io/in/sitemap.xml
