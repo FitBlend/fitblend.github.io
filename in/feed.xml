@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>in</title>
+    <link href="https://lifevox.github.io/in/feed.xml" rel="self" />
+    <link href="https://lifevox.github.io/in" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Shiva</name>
+    </author>
+    <id>https://lifevox.github.io/in</id>
+
+</feed>
