@@ -3,7 +3,7 @@
     <title>LifeVox</title>
     <link href="https://lifevox.github.io/feed.xml" rel="self" />
     <link href="https://lifevox.github.io" />
-    <updated>2024-03-28T20:30:11+05:30</updated>
+    <updated>2024-03-28T20:35:58+05:30</updated>
     <author>
         <name>Shiva</name>
     </author>
@@ -80,20 +80,20 @@
         </author>
         <link href="https://lifevox.github.io/top-5-laptops-under-dollar1000-in-2024/"/>
         <id>https://lifevox.github.io/top-5-laptops-under-dollar1000-in-2024/</id>
-        <media:content url="https://lifevox.github.io/media/posts/11/acer.jpg" medium="image" />
+        <media:content url="https://lifevox.github.io/media/posts/11/Laptop.jpg" medium="image" />
             <category term="Laptops"/>
             <category term="Electronics"/>
 
-        <updated>2024-03-04T18:53:13+05:30</updated>
+        <updated>2024-03-28T20:35:58+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lifevox.github.io/media/posts/11/acer.jpg" alt="" />
+                        <img src="https://lifevox.github.io/media/posts/11/Laptop.jpg" alt="laptop" />
                     Finding the perfect laptop can be tricky, especially when you're on a budget. But fear not, because there are plenty of excellent options available for under $1000 in 2024! Whether you're a student, professional, or casual user, this list has something for everyone: 1. Acer&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://lifevox.github.io/media/posts/11/acer.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lifevox.github.io/media/posts/11/Laptop.jpg" class="type:primaryImage" alt="laptop" /></p>
                 <p data-sourcepos="3:1-3:266">Finding the perfect laptop can be tricky, especially when you're on a budget. But fear not, because there are plenty of excellent options available for under $1000 in 2024! Whether you're a student, professional, or casual user, this list has something for everyone:</p>
 <p data-sourcepos="5:1-5:230"><strong>1. Acer Swift Go 14:</strong> This lightweight and stylish Windows laptop offers excellent battery life, making it perfect for those on the go. It boasts a vibrant display and a comfortable keyboard, making it ideal for everyday tasks.</p>
 <p data-sourcepos="7:1-7:204"><strong>2. Dell G15:</strong> For gamers, the Dell G15 packs a powerful punch without breaking the bank. It features a dedicated graphics card for smooth gameplay and a comfortable design for extended gaming sessions.</p>
