@@ -3,19 +3,43 @@
     <title>LifeVox</title>
     <link href="https://lifevox.github.io/feed.xml" rel="self" />
     <link href="https://lifevox.github.io" />
-    <updated>2024-03-28T16:08:36+05:30</updated>
+    <updated>2024-03-28T16:08:54+05:30</updated>
     <author>
         <name>Shiva</name>
     </author>
     <id>https://lifevox.github.io</id>
 
     <entry>
+        <title>Affiliate Disclosure</title>
+        <author>
+            <name>Shiva</name>
+        </author>
+        <link href="https://lifevox.github.io/affiliate-disclosure/"/>
+        <id>https://lifevox.github.io/affiliate-disclosure/</id>
+
+        <updated>2024-03-04T21:00:40+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Disclosure of Material Connection: Some of the links in this website are affiliate links. This means if you click on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Disclosure of Material Connection: Some of the links in this website are affiliate links. This means if you click on the link and purchase the item, the owner of this website will receive an affiliate commission. Regardless, the owner of this website only recommend products or services that will add value to the readers. The owner of this website is disclosing this in accordance with the Federal Trade Commission’s <a href="http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html" target="_blank" rel="noopener">16 CFR, Part 255</a>: Guides Concerning the Use of Endorsements and Testimonials in Advertising.</p>
+<p>This website may accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation.</p>
+<p>The compensation received may influence the advertising content, topics or posts made in this website. That content, advertising space or post may not always be identified as paid or sponsored content.</p>
+<p>The owner(s) of this website may be compensated to provide opinions on products, services, websites and various other topics. Even though the owner(s) of this website receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this website are purely the author. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.</p>
+<p>This website does not contain any content which might present a conflict of interest.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>10 Simple Reasons To Remove Spyware From Your Computer</title>
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/10-simple-reasons-to-remove-spyware-from-your-computer.html"/>
-        <id>https://lifevox.github.io/10-simple-reasons-to-remove-spyware-from-your-computer.html</id>
+        <link href="https://lifevox.github.io/10-simple-reasons-to-remove-spyware-from-your-computer/"/>
+        <id>https://lifevox.github.io/10-simple-reasons-to-remove-spyware-from-your-computer/</id>
         <media:content url="https://lifevox.github.io/media/posts/12/Malware.jpg" medium="image" />
             <category term="PC"/>
             <category term="Electronics"/>
@@ -51,8 +75,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/top-5-laptops-under-dollar1000-in-2024.html"/>
-        <id>https://lifevox.github.io/top-5-laptops-under-dollar1000-in-2024.html</id>
+        <link href="https://lifevox.github.io/top-5-laptops-under-dollar1000-in-2024/"/>
+        <id>https://lifevox.github.io/top-5-laptops-under-dollar1000-in-2024/</id>
         <media:content url="https://lifevox.github.io/media/posts/11/acer.jpg" medium="image" />
             <category term="Laptops"/>
             <category term="Electronics"/>
@@ -82,8 +106,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/top-5-headphones-under-dollar100-budget-friendly-audio-bliss.html"/>
-        <id>https://lifevox.github.io/top-5-headphones-under-dollar100-budget-friendly-audio-bliss.html</id>
+        <link href="https://lifevox.github.io/top-5-headphones-under-dollar100-budget-friendly-audio-bliss/"/>
+        <id>https://lifevox.github.io/top-5-headphones-under-dollar100-budget-friendly-audio-bliss/</id>
         <media:content url="https://lifevox.github.io/media/posts/10/JBL-Headphone-493911264-i-1-1200Wx1200H.jpg" medium="image" />
             <category term="Headphones"/>
             <category term="Electronics"/>
@@ -113,8 +137,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/puravive.html"/>
-        <id>https://lifevox.github.io/puravive.html</id>
+        <link href="https://lifevox.github.io/puravive/"/>
+        <id>https://lifevox.github.io/puravive/</id>
         <media:content url="https://lifevox.github.io/media/posts/9/Puravive-Weight-Loss-10.png" medium="image" />
             <category term="Health"/>
 
@@ -140,8 +164,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/contact-us.html"/>
-        <id>https://lifevox.github.io/contact-us.html</id>
+        <link href="https://lifevox.github.io/contact-us/"/>
+        <id>https://lifevox.github.io/contact-us/</id>
 
         <updated>2024-03-04T16:11:03+05:30</updated>
             <summary>
@@ -162,8 +186,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/about-us.html"/>
-        <id>https://lifevox.github.io/about-us.html</id>
+        <link href="https://lifevox.github.io/about-us/"/>
+        <id>https://lifevox.github.io/about-us/</id>
 
         <updated>2024-03-04T15:46:20+05:30</updated>
             <summary>
@@ -186,8 +210,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/disclaimer.html"/>
-        <id>https://lifevox.github.io/disclaimer.html</id>
+        <link href="https://lifevox.github.io/disclaimer/"/>
+        <id>https://lifevox.github.io/disclaimer/</id>
 
         <updated>2024-03-04T15:12:42+05:30</updated>
             <summary>
@@ -212,8 +236,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/terms-and-conditions.html"/>
-        <id>https://lifevox.github.io/terms-and-conditions.html</id>
+        <link href="https://lifevox.github.io/terms-and-conditions/"/>
+        <id>https://lifevox.github.io/terms-and-conditions/</id>
 
         <updated>2024-03-04T15:06:38+05:30</updated>
             <summary>
@@ -309,8 +333,8 @@
         <author>
             <name>Shiva</name>
         </author>
-        <link href="https://lifevox.github.io/privacy-policy.html"/>
-        <id>https://lifevox.github.io/privacy-policy.html</id>
+        <link href="https://lifevox.github.io/privacy-policy/"/>
+        <id>https://lifevox.github.io/privacy-policy/</id>
 
         <updated>2024-03-04T15:01:09+05:30</updated>
             <summary>
@@ -379,52 +403,6 @@
 <h2>Children’s Information</h2>
 <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 <p>LifeVox does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tea Burn</title>
-        <author>
-            <name>Shiva</name>
-        </author>
-        <link href="https://lifevox.github.io/home.html"/>
-        <id>https://lifevox.github.io/home.html</id>
-        <media:content url="https://lifevox.github.io/media/posts/2/special-teaburn.png" medium="image" />
-            <category term="Health"/>
-
-        <updated>2024-03-04T11:26:14+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://lifevox.github.io/media/posts/2/special-teaburn.png" alt="" />
-                    The world’s first and only natural proprietary, patent-pending formula, that when combined with tea, can increase both the speed and efficiency&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://lifevox.github.io/media/posts/2/special-teaburn.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--right"><img loading="lazy"  src="https://lifevox.github.io/media/posts/2/special-teaburn-2.png" alt="" width="1538" height="1042" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-xs.png 300w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-sm.png 480w ,https://lifevox.github.io/media/posts/2/responsive/special-teaburn-2-md.png 768w"></figure>
-<p data-v-96c0ee90=""> </p>
-<p data-v-96c0ee90="">The world’s first and only natural proprietary, patent-pending formula, that when combined with tea, can increase both the speed and efficiency of metabolism.</p>
-<p data-v-96c0ee90="">While instantly boosting your health, energy and well-being at the same time.</p>
-<p class="text-4xl font-bold leading-snug sm:leading-10" data-v-96c0ee90="">There’s never been anything even close to Tea Burn ever attempted.</p>
-<p data-v-96c0ee90="">As myself, my team, my entire family…</p>
-<p data-v-96c0ee90="">And tens of thousands of everyday women and men can attest…</p>
-<p data-v-96c0ee90=""><strong data-v-96c0ee90="">Electrifying your metabolism…</strong></p>
-<p data-v-96c0ee90=""><strong data-v-96c0ee90="">Torching off fat from your problem areas…</strong></p>
-<p data-v-96c0ee90=""><strong data-v-96c0ee90="">Enjoying incredible all-day-energy…</strong></p>
-<p data-v-96c0ee90=""><strong data-v-96c0ee90="">Reducing hunger...</strong></p>
-<p data-v-96c0ee90=""><strong data-v-96c0ee90="">And improving your health…</strong></p>
-<div class="my-4" data-v-96c0ee90="">
-<div class="inline w-auto m-0 p-0 font-normal roboto-slab" data-v-60cf828d="" data-v-96c0ee90=""><span class="text-xl py-1 font-bold roboto-slab bg-yellow" data-v-60cf828d=""> Could not be any simpler, easier or more automatic. </span></div>
-</div>
-<p class="mb-0" data-v-96c0ee90="">Just enjoy your favorite tea with an instantly dissolvable, tasteless packet of Tea Burn…</p>
-<p>You’ll never be able to buy Tea Burn<br data-v-7aeddfb5="">cheaper than today…</p>
-<p data-v-7aeddfb5="">And Tea Burn will never be available for purchase at any other website or store...</p>
-<p data-v-7aeddfb5="">We’re only able to offer today’s incredible pricing because we’ve eliminated all middlemen and agents and have partnered directly with the industry-leading manufacturer so that we can ship directly to you right away.</p>
-<p data-v-7aeddfb5="">Furthermore, rest assured this is a one-time payment. <span class="underline font-bold" data-v-7aeddfb5="">There are no hidden charges or subscription fees whatsoever. </span>I’ve always hated that stuff as much as you do.</p>
-<p data-v-7aeddfb5="">So, provided Tea Burn is still in stock, <span data-v-7aeddfb5="">you’ll see a table below with three </span>money saving options for you to choose from.</p>
-<p data-v-7aeddfb5=""><span class="inline bg-yellow font-bold outline-yellow leading-tight" data-v-7aeddfb5="">Select your package and then click the Add To Cart button</span> to proceed to our 256 bit secure order page...</p>
-<p class="mb-1" data-v-7aeddfb5="">Then fill in your order information and confirm your order on our secure order form and we’ll get your package sent directly to your door, right away.</p>
             ]]>
         </content>
     </entry>
